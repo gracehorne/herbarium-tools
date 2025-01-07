@@ -152,17 +152,19 @@ data: None
 
 ### Sharing/Access Information
 
-Recommended citation: NA
+Recommended citation: Horne, G. (2025). Herbarium-Tools: A standardized workflow for morphological measurements of herbarium specimens. GitHub repository: https://github.com/gracehorne/herbarium-tools
+
+Version: 1.0.0
 
 ### Data & File Overview
 
 File List:
 
--   01_scripts \> herbarium-tools.ijm - macro for ImageJ/Fiji
+-   `01_scripts \> herbarium-tools.ijm` - macro for ImageJ/Fiji
 
--   01_scripts \> herbarium-tools_process-data.R - data wrangling
+-   `01_scripts \> herbarium-tools_process-data.R` - data wrangling
 
--   02_example-specimens - folder with example specimen images
+-   `02_example-specimens` - folder with example specimen images
 
 Relationship between files, if important: NA
 
