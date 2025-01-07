@@ -1,20 +1,13 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # herbarium-tools
 
-Herbarium tools for ImageJ. This readme file was generated on 2025-01-07
-by Grace Horne.
+Herbarium tools for ImageJ/Fiji. This readme file was generated on
+2025-01-07 by Grace Horne.
 
 ### Initial Setup
 
 1.  Copy the macro file to the Fiji toolsets folder:
 
 ```{bash}
-
 /Applications/Fiji.app/macros/toolsets/herbarium-tools.ijm
 ```
 
@@ -137,7 +130,7 @@ The script will:
 
     -   Herbivory Measures: damage types and areas
 
----
+------------------------------------------------------------------------
 
 ### General Information
 
