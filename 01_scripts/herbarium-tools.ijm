@@ -35,9 +35,8 @@ macro "Initialize New Specimen [F1]" {
     
     // Set scale
     Dialog.create("Set Scale");
-    Dialog.addNumber("Known distance:", 10);
-    Dialog.addString("Unit:", "mm");
-    Dialog.addMessage("Default is 1 cm (10 mm)");
+    Dialog.addNumber("Known distance:", 1);
+    Dialog.addString("Unit:", "cm");
     Dialog.show();
     
     distance = Dialog.getNumber();
